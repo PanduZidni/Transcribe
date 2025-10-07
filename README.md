@@ -42,7 +42,7 @@ pip install faster-whisper
 
 Pastikan juga Anda sudah menginstal ffmpeg dan berada di PATH:
 https://ffmpeg.org/download.html
-
+---
 🖥️ Cara Menjalankan Aplikasi
 python m4a_to_text_gui.py
 
@@ -60,7 +60,6 @@ Untuk mempercepat proses:
 4. Gunakan file audio berdurasi lebih pendek
 
 🧰 Dependencies
-
 1. Python 3.8+
 2. ffmpeg
 3. pydub
